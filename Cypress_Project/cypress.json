@@ -1,0 +1,11 @@
+{
+    "defaultCommandTimeout": 6000,
+    "chromeWebSecurity": false,
+    "env": {
+        "baseUrl": "https://www.bing.com",
+        "product": {
+            "product1": "fridge",
+            "product2": "Fan"
+        }
+    }
+}
