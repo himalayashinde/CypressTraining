@@ -1,0 +1,22 @@
+[
+    {
+        "from": "Boston",
+        "to": "Rome"
+    },
+    {
+        "from": "Portland",
+        "to": "London"
+    },
+    {
+        "from": "Philadelphia",
+        "to": "Berlin"
+    },
+    {
+        "from": "Paris",
+        "to": "New York"
+    },
+    {
+        "from": "Mexico City",
+        "to": "Dublin"
+    }
+]
